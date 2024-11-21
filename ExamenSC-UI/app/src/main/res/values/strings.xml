@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamSC3R</string>
+
+    <string name="home">Home</string>
+    <string name="account">Game</string>
+    <string name="settings">Boart</string>
+</resources>
